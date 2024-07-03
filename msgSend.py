@@ -11,4 +11,4 @@ def msgSend(q):
             if(num==10):
                 break
 
-    print("thread 1 exit")
+    print("msg Send 종료")
